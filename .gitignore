@@ -1,0 +1,5 @@
+Pipfile
+*.txt
+*.log
+kattis_java/
+*~
